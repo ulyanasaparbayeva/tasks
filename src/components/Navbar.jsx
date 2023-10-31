@@ -20,7 +20,7 @@ const Navbar =  () => {
         <li className="text-lg text-primary-3 font-normal cursor-pointer hover:font-bold nav">
           Blog
         </li>
-        <li className="text-lg text-primary-3 font-normal cursor-pointer hover:font-bold nav">
+        <li className="text-lg text-primary-3 font-normal cursor-pointer hover:font-bold">
           <button className="bg-primary w-custom-width h-custom-height rounded-custom-border">Contact us</button>
         </li>
         <li className="cursor-pointer text-white hover:font-bold">
